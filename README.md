@@ -3,7 +3,7 @@
 **Producto de la Unidad II | Ciencia de Datos e Inteligencia Artificial Aplicada**  
 **Universidad Peruana Unión (UPeU) — Escuela de Posgrado**  
 **Docente:** Doris Elena Campo Duarte  
-**Integrantes:** *Esther Elen Tafura Alegria*  
+**Integrantes:** *Esther Elen Tafur Alegria, Dan, Guillermo*  
 **Fecha de entrega de referencia:** 22 de noviembre de 2026
 
 ## 1. ¿De qué trata este proyecto?
